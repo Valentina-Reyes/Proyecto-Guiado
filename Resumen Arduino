@@ -8,3 +8,4 @@ Partes:
 -Leds 
 -MicroControldor
 -Regulador de Voltaje
+-cada uno de los pines pines tiene una funcion digferente unos reciven energia, otros dan energia o reciven el codigo analogo o digital y lo llevan a la compuerta que lo hace funcionar.
