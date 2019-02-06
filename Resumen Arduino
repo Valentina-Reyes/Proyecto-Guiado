@@ -1,12 +1,12 @@
 ARDUINO: Es una plataforma hardware y software de codigo abierto en la cual observamos 
 ALIMENTACION: La placa está formada por dos puertos uno que es USB y el otro que es el Jack, por el puerto usb se puede recibir hasta 5 voltios y por el Jack se pueden recibir hasta 9 voltios en la placa de ARDUINO ONE y hasta 12 voltios en la placa  ARDUINO MEGA.
 Partes: 
--Puerto USB 
--Pines (5V, 3.3V, GND, Analog, Digital)
--Botón de reinicio
--Leds 
--MicroControldor
--Regulador de Voltaje
+-Puerto USB .
+-Pines (5V, 3.3V, GND, Analog, Digital).
+-Botón de reinicio.
+-Leds .
+-MicroControldor.
+-Regulador de Voltaje.
 -cada uno de los pines pines tiene una funcion digferente unos reciven energia, otros dan energia o reciven el codigo analogo o digital y lo llevan a la compuerta que lo hace funcionar.
     
  POSIBILIDADES CON ARDUINO
