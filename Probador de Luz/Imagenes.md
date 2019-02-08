@@ -4,5 +4,5 @@ probarlos con una bateria y provocar que esta lo funda; este proyecto fue realiz
 -Cable USB
 -Protoboard
 -Leds
--Cable UTP
+-Cable UTP y Alambre de timbre
 -Resistencia 220 Ohmnios
