@@ -1,6 +1,7 @@
 ARDUINO
 Es una plataforma hardware y software de codigo abierto en la cual observamos distintos aspectos que lo caracterizan
-ALIMENTACION: La placa está formada por dos puertos uno que es USB y el otro que es el Jack, por el puerto usb se puede recibir hasta 5 voltios y por el Jack se pueden recibir hasta 9 voltios en la placa de ARDUINO ONE y hasta 12 voltios en la placa  ARDUINO MEGA.
+ALIMENTACION: La placa está formada por dos puertos uno que es USB y el otro que es el Jack, por el puerto usb se puede recibir hasta 5
+voltios y por el Jack se pueden recibir hasta 9 voltios en la placa de ARDUINO ONE y hasta 12 voltios en la placa  ARDUINO MEGA.
 Partes: 
 -Puerto USB .
 -Pines (5V, 3.3V, GND, Analog, Digital).
@@ -8,14 +9,18 @@ Partes:
 -Leds .
 -MicroControldor.
 -Regulador de Voltaje.
--Cada uno de los pines pines tiene una funcion digferente unos reciben energia, otros dan energia o reciben el codigo analogo o digital y lo llevan a la compuerta que lo hace funcionar.
+-Cada uno de los pines pines tiene una funcion digferente unos reciben energia, otros dan energia o reciben el codigo analogo o digital
+ y lo llevan a la compuerta que lo hace funcionar.
     
  POSIBILIDADES CON ARDUINO
- La enorme flexibilidad  y el caracter libre y abierto de Arduino hacen que puedas utilizar este tipo de placas practicaentemente para cualquier 
- cosa, desde relojes hasta basculas conectadas, pasando por robots, persianas controladas por voz entre muchas cosas mas.
-un ejemplo de usos de arduino es:
-Cabina de fotos para tu boda o evento social.
+ La enorme flexibilidad  y el caracter libre y abierto de Arduino hacen que puedas utilizar este tipo de placas practicaentemente para
+ cualquier cosa, desde relojes hasta basculas conectadas, pasando por robots, persianas controladas por voz entre muchas cosas mas.
+ un ejemplo de usos de arduino es:
+ Cabina de fotos para tu boda o evento social.
 
-Poner un photocall y permitir a los invitados de un evento social hacerse fotos está de moda. Y hay negocio alrededor, tanto como para costar unos 600 euros el alquiler de una cabina para hacerse fotos.
+Poner un photocall y permitir a los invitados de un evento social hacerse fotos está de moda. Y hay negocio alrededor, tanto como para 
+costar unos 600 euros el alquiler de una cabina para hacerse fotos.
 
-Con Arduino, una cuenta de Dropbox y una webcam ya tienes la base para construirte tu propia cabina de fotos. Y si la amplías para que pueda imprimir las fotos que se toman al instante.
+Con Arduino, una cuenta de Dropbox y una webcam ya tienes la base para construirte tu propia cabina de fotos. Y si la amplías para que 
+pueda imprimir las fotos que se toman al instante.
+
